@@ -83,9 +83,9 @@ DATABASES = {
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
         'NAME': 'hungrytweb',
         'USER': 'postgres',
-        'PASSWORD': '1021',
+        'PASSWORD': 'hungrytpassword',
         'HOST': 'localhost',
-        'PORT': '5432',
+        'PORT': '',
     }
 }
 
