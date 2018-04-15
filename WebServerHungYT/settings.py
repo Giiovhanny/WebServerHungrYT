@@ -40,7 +40,8 @@ INSTALLED_APPS = [
     'rest_framework',
     'user.apps.UserConfig',
     'transaction.apps.TransactionConfig',
-    'category.apps.CategoryConfig'
+    'category.apps.CategoryConfig',
+    'product.apps.ProductConfig'
 ]
 
 MIDDLEWARE_CLASSES = [
